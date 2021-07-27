@@ -1,0 +1,19 @@
+{
+  "name": "focus-handling",
+  "version": "1.0.0",
+  "description": "Clear away focus outline while making it visible only for keyboard navigation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xshapira/focus-handling.git"
+  },
+  "author": "Max Shapira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xshapira/focus-handling/issues"
+  },
+  "homepage": "https://github.com/xshapira/focus-handling#readme"
+}
